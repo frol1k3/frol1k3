@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/frol1k3/frol1k3/main/assets/profile-banner.svg?v=1" alt="Alexander Frolov — Computer Security, Python and Automation" width="100%" />
+</div>
 
-<!--
-**frol1k3/frol1k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Александр Фролов</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Студент НИУ МЭИ · Компьютерная безопасность
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Изучаю компьютерную безопасность и создаю прикладные проекты: Telegram-ботов, учебные киберквесты и инструменты автоматизации.
+
+## Избранные проекты
+
+| Проект | Описание |
+| --- | --- |
+| [Telegram Poster Bot](https://github.com/frol1k3/telegram-poster-bot) | Многопользовательский бот для подготовки постов из фото и текстовых заметок. |
+| [SLED Cyberquests](https://github.com/frol1k3/sled-cyberquests) | Браузерный конструктор и плеер учебных квестов по информационной безопасности. |
+| [OOOBS Order Sync](https://github.com/frol1k3/ooobs-order-sync) | Тестовое задание по синхронизации заявок с нормализацией и дедупликацией телефонов. |
+
+## Инструменты
+
+`Python` · `JavaScript` · `HTML` · `CSS` · `Git`
+
+<p align="center">
+  <sub>Учусь, собираю прототипы и довожу их до понятного рабочего результата.</sub>
+</p>
